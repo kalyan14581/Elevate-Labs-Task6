@@ -1,0 +1,6 @@
+Password,Strength Score,Time to Crack,Feedback
+password123,Weak,<1 second,Common password and lacks complexity
+Password123,Fair,A few minutes,Add symbols for improvement
+P@ssw0rd!,Good,Hours to Days,Better than average but still predictable
+X8!j$e2R#pL,Strong,100+ years,Randomized and secure
+T!m3T0Ch@ng3!Tn0w2025,Very Strong,1000+ years,Excellent length and complexity
